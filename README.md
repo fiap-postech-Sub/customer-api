@@ -65,9 +65,6 @@ $ npx ts-node prisma/seed.ts
 ```
 ![image info](./docs/Docker-compose.gif)
 
-![image info](./docs/Swagger.gif)
-
-
 ### Testes
 
 ```bash
@@ -93,4 +90,4 @@ $  kubectl port-forward deployment/fast-food-deployment 8080:8080
 ## Swagger
 
 ### Após rodar o projeto, acesse http://localhost:8080/swagger
-![swagger](https://github.com/tshadz/soat3-tech-chalenge/assets/80704054/f5ba4ca7-a7b4-4dc8-9d0c-3c3c2f7cd2c7)
+![image info](./docs/Swagger.gif)
