@@ -2,7 +2,7 @@
 
 Tech Challenge - Software Architecture
 
-Acesse a [Wiki do Projeto](https://github.com/fiap-postech-Sub/customer-api.wiki.git) para mais informações a respeito dos:
+Acesse a [Wiki do Projeto](https://github.com/fiap-postech-Sub/customer-api/wiki) para mais informações a respeito dos:
 
 * Requisitos técnicos (business)
 * Domain-Driven Design
