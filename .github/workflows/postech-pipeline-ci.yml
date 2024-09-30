@@ -10,5 +10,5 @@ on:
 jobs:
   call-workflow-branch-ref:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' || github.event_name == 'pull_request' && github.base_ref }}
-    uses: tshadz-fiap-postech-soat3/ci-pipeline/.github/workflows/ci-pipeline.yml@main
+    uses: /fiap-postech-Sub/ci-pipeline/.github/workflows/ci-pipeline.yml@main
     secrets: inherit
