@@ -2,7 +2,7 @@
 
 Tech Challenge - Software Architecture
 
-Acesse a [Wiki do Projeto](https://github.com/tshadz/soat3-tech-chalenge/wiki) para mais informações a respeito dos:
+Acesse a [Wiki do Projeto](https://github.com/fiap-postech-Sub/customer-api.wiki.git) para mais informações a respeito dos:
 
 * Requisitos técnicos (business)
 * Domain-Driven Design
@@ -63,9 +63,9 @@ $ npx ts-node prisma/seed.ts
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
-![docker compose up](https://github.com/tshadz/soat3-tech-chalenge/assets/80704054/7fa20867-2b2a-4bec-8ce2-02d886ce0897)
+![image info](./docs/Docker-compose.gif)
 
-![docker exec](https://github.com/tshadz/soat3-tech-chalenge/assets/80704054/5ae747af-2371-439c-9bcf-1408cb2f9a6b)
+![image info](./docs/Swagger.gif)
 
 
 ### Testes
